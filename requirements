@@ -1,0 +1,14 @@
+Webpack (import/exports)
+    Babel
+    Scss
+    Eslint
+    2 Modes
+        - Dev
+            Dev Server, SourceMaps, Eslint, Not Minified Js & Css
+        - Prod
+            Minified code
+
+Git
+React Router
+Redux
+Node Server for keep users
