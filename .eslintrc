@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "semi": "off",
+    "linebreak-style": ["error", "windows"],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+  },
+  "extends": ["airbnb"]
+}
