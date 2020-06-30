@@ -3,7 +3,8 @@
   "rules": {
     "semi": "off",
     "linebreak-style": ["error", "windows"],
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "comma-dangle": "off"
   },
   "extends": ["airbnb"]
 }
