@@ -7,8 +7,11 @@ module.exports = {
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '',
-  },
+    publicPath: '/',
+	},
+	devServer: {
+		historyApiFallback: true
+	},
   resolve: {
     extensions: ['.js', '.jsx'],
   },
