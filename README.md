@@ -30,6 +30,12 @@ for working server need to be instaled node js in progect use
 v14.4.0
 ```
 
+The app work in brawser for see  working open 
+
+```
+http://localhost:8080/
+```
+
 ### App Login
 
 Name: John
